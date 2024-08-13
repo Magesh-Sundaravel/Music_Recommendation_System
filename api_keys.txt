@@ -1,0 +1,3 @@
+Clinet_ID : "a23213864058451abe3b5b26dbc38d06"
+Clinet_Sceret : "e953b5faffe3498e8a047db9453f1ca3"
+
